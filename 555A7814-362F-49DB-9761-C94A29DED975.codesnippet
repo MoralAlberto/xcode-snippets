@@ -9,7 +9,7 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@[]</string>
+	<string>@[&lt;#something#&gt;]</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>555A7814-362F-49DB-9761-C94A29DED975</string>
 	<key>IDECodeSnippetLanguage</key>

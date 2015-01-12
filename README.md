@@ -2,7 +2,7 @@
 
 ##Instructions
 
-1. git clone https://gist.github.com/6224125.git xcode-snippets
+1. git clone https://github.com/MoralAlberto/xcode-snippets.git xcode-snippets
 2. cd xcode-snippets
 3. Run the install command: ./install
 4. Restart Xcode
@@ -19,7 +19,7 @@ ls | @"<#something#>"
 
 Shortcut | Snippet
 :------------: | :------------:
-la | @[]
+la | @[<#something#>]
 
 
 ####Literal Dictionary
